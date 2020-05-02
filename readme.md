@@ -6,7 +6,13 @@ This script downloads all the books offered by the Springer publisher inserted i
 
 Clone the project and open the folder.
 
-Run:
+To **Install** all project requirements:
+
+```bash
+pip install --user -r requirements.txt
+```
+
+To **Run** the Springer Book Downloader:
 
 ```bash
 python downloader.py
